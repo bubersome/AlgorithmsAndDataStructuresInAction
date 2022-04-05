@@ -1,5 +1,7 @@
 # **Advanced Algorithms and Data Structures**
 
+https://learning.oreilly.com/library/view/advanced-algorithms-and/9781617295485/OEBPS/Text/ch02.htm#heading_id_7
+
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/mlarocca/AlgorithmsAndDataStructuresInAction.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mlarocca/AlgorithmsAndDataStructuresInAction/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/mlarocca/AlgorithmsAndDataStructuresInAction.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mlarocca/AlgorithmsAndDataStructuresInAction/context:javascript)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/mlarocca/AlgorithmsAndDataStructuresInAction.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mlarocca/AlgorithmsAndDataStructuresInAction/context:python)
